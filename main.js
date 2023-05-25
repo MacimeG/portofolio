@@ -1,7 +1,13 @@
-const main = document.querySelector('.main')
+// const main = document.querySelector('.main')
 
+// const div = document.createElement('div')
+// const card = document.createElement('article')
+// const containCard= document.createElement('p')
 
-const paragraphe = document.createElement('p')
-paragraphe.innerHTML="bienvenue a tous sur mon futur portofolio"
+// div.className='cardContainer'
+// containCard.innerHTML="lorem ipsum"
 
-main.appendChild(paragraphe)
+// div.appendChild(card)
+// card.appendChild(containCard)
+
+// main.appendChild(div)

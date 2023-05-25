@@ -19,4 +19,16 @@ p{
     margin: 0;
 }
 
+.cardContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    width: 50%;
+    background-color: rgb(194, 194, 194);
+}
+.card h1{
+    text-align: center;
+}
 /* je vais rajouter quelque animation, je pense, fait main avec les @keyframe qui fonctionne plûtot bien a mon goûts */
