@@ -1,14 +1,31 @@
-main{
+.main_intro{
     background-color: #212529;
-}
-.main_contain{
     color: white;
     padding-top: 140px;
-    padding-bottom: 140px;
+    /* padding-bottom: 140px; */
 }
 .main_title{
     text-align: center;
 }
 .sous_title{
     text-align: center;
+}
+.img_pres{
+    text-align: center;
+    padding-top: 13%;
+}
+.main_suite{
+    margin-top: 100px;
+}
+.titre_main_suite{
+    text-align: center;
+}
+.text_pres{
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    padding-bottom: 100px;
+}
+.card{
+    width: 30%;
 }
