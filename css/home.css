@@ -28,7 +28,31 @@
 }
 .skill_section{
     background-color: #212529;
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 100px;
 }
 .card{
     width: 30%;
+    margin-top: 50px;
+}
+.card_design{
+    text-align: center;
+}
+.text_maquette{
+    margin-bottom: 0;
+}
+
+.card_front{
+    text-align: center;
+}
+.text_front{
+    margin-bottom: 0;
+}
+.card_back{
+    text-align: center;
+}
+.text_back{
+    margin-bottom: 0;
 }
