@@ -56,3 +56,34 @@
 .text_back{
     margin-bottom: 0;
 }
+.title_parcours{
+    text-align: center;
+    margin-top: 50px;
+}
+.mon_parcours{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul{
+    margin-top: 50px;
+}
+li{
+    /* text-align: center; */
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+
+footer{
+    color: white;
+    background-color: #212529;
+}
+.foot_reseau{
+    text-align: center;
+}
+.img_linkedin{
+    width: 150px;
+}
+.img_git{
+    width: 90px;
+}
