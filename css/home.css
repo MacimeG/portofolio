@@ -87,3 +87,12 @@ footer{
 .img_git{
     width: 90px;
 }
+@media screen and (max-width: 992px) {
+    .skill_section{
+        flex-direction: column;
+        align-items: center;
+    }
+    .card{
+        width: 80%;
+    }
+}
