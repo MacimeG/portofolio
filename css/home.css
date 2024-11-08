@@ -75,7 +75,23 @@ li{
     list-style-type: none;
     margin-bottom: 30px;
 }
+.ocr{
+    margin-bottom: 0;
+}
+.lienP7{
+    margin-bottom: 0;
+    
+}
+.lienP6{
+    margin-bottom: 30px;
+}
 .lien{
+    text-decoration: none;
+}
+.p6{
+    text-decoration: none;
+}
+.p7{
     text-decoration: none;
 }
 footer{
@@ -95,6 +111,9 @@ footer{
     .skill_section{
         flex-direction: column;
         align-items: center;
+    }
+    .img_icon{
+        width: 350px;
     }
     .card{
         width: 80%;
