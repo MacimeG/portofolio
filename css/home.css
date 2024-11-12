@@ -16,6 +16,9 @@
     text-align: center;
     padding-top: 13%;
 }
+.animate__animated.animate__bounceInUp {
+    --animate-duration: 3s;
+}
 .main_suite{
     margin-top: 100px;
 }
