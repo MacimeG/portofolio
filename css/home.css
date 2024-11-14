@@ -1,3 +1,9 @@
+.nav_link{
+    text-decoration: none;
+    color: #212529;
+    font-size: larger;
+    margin-left: 10px;
+}
 .main_intro{
     background-color: #212529;
     color: white;
